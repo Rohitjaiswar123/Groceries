@@ -10,7 +10,7 @@ import apiRequest from './apiRequest';
 
 
 function App() {
-  const API_URL = 'https://raw.githubusercontent.com/Rohitjaiswar123/groceries-app-react/main/data/db.json'
+  const API_URL = 'https://github.com/Rohitjaiswar123/Groceries/blob/main/groceries-app-react-main/data/db.json'
 
     const [items, setItems] = useState([]);
 
